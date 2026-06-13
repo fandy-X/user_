@@ -1,11 +1,5 @@
-## Cara Mendapatkan Akses
-
-1. ```bash
-pkg update && pkg upgrade -y
-```
-2. ```bash
-pkg install python git -y
-```
+1. ```pkg update && pkg upgrade -y```
+2. ```pkg install python git -y```
 3. Clone repo ini:
    ```bash
    git clone https://github.com/fandy-X/user_
